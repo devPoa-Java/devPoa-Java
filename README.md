@@ -10,7 +10,7 @@ Atuo como profissional de Analise de Sistemas e estou querendo migrar para a ár
 - 📚 Atualmente estudando o ecosistema SpringBoot Java, API REST, Microserviços,etc.
 - 🌏 Gosto de conhecer novos lugares nos tempos livres.
 
-### Contate-me:
+### Contact:
 
 <a href="https://instagram.com/sandromdsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sandro-dos-santos-42083a26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
