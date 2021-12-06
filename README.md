@@ -6,7 +6,7 @@ Atuo como profissional de Analise de Sistemas e estou querendo migrar para a ár
  
 
 - 🔭 Trabalho atualmente na <a href="https://www.linx.com.br/">Linx Sistemas</a> hoje <a href="https://www.stone.com.br/">Stone Co.</a>
-- 📑 Experienca nos Segmentos: Varejo e Educacional.
+- 📑 Experiência nos Segmentos: Varejo e Educacional.
 - 📚 Atualmente estudando o ecosistema SpringBoot Java, API REST, Microserviços,etc.
 - 🌏 Gosto de conhecer novos lugares nos tempos livres.
 
