@@ -30,7 +30,7 @@ Ao longo da minha trajetória, atuei em diferentes frentes, desde o planejamento
 ### Projects
 <a href="https://dsvendas-devpoa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/DSVENDAS-JAVA-green" target="_blank"></a>
 <a href="https://github.com/devPoa-Java/cobranca" target="_blank"><img src="https://img.shields.io/badge/COBRANCA SYSTEM- JAVA-green" target="_blank"></a>
-<a href="https://webservice-project-nuk6.onrender.com/users/" target="_blank"><img src="https://img.shields.io/badge/WEBSERVICES PEDIDOS-JAVA-green" target="_blank"></a>
+<a href="https://webservice-project-nuk6.onrender.com/users" target="_blank"><img src="https://img.shields.io/badge/WEBSERVICES PEDIDOS-JAVA-green" target="_blank"></a>
 
 
 
