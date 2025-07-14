@@ -2,18 +2,22 @@
 
 ### Fala, Devs !!!
 
-Atuo como profissional de Analise de Sistemas e estou querendo migrar para a área de desenvolvimento de Sistemas. Atualmente morando em  Porto Alegre RS.
- 
+🎯 Profissional com ampla experiência no desenvolvimento, gestão e implementação de soluções de software voltadas aos setores de varejo e educação.
 
-- 🔭 Trabalho atualmente na <a href="https://www.linx.com.br/">Linx Sistemas</a> hoje <a href="https://www.stone.com.br/">Stone Co.</a>
+Ao longo da minha trajetória, atuei em diferentes frentes, desde o planejamento estratégico até a entrega de produtos e serviços tecnológicos que geram valor real para os negócios. Tenho profundo conhecimento das necessidades operacionais e de gestão tanto do varejo físico e digital quanto de instituições educacionais, o que me permite conectar tecnologia com resultados concretos.
+
+### Principais Skill's
+ 
+- 🔭 Empresa anterior <a href="https://www.linx.com.br/">Linx Sistemas</a>
 - 📑 Experiência nos Segmentos: Varejo e Educacional.
-- 📚 Atualmente estudando o ecosistema SpringBoot Java, API REST, Microserviços,etc.
+- 📚 Atualmente desenvolvendo aplicações com ecosistema SpringBoot Java, API REST, Microserviços,etc.
+- :key: Senso de dono, pró-atividade e trabalho em equipe
 - 🌏 Gosto de conhecer novos lugares nos tempos livres.
 
 ### Contact:
 
 <a href="https://instagram.com/sandromdsantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/sandro-dos-santos-42083a26" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/sandromdossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 ### Technologies and Tools
@@ -26,6 +30,7 @@ Atuo como profissional de Analise de Sistemas e estou querendo migrar para a ár
 ### Projects
 <a href="https://dsvendas-devpoa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/DSVENDAS-JAVA-green" target="_blank"></a>
 <a href="https://github.com/devPoa-Java/cobranca" target="_blank"><img src="https://img.shields.io/badge/COBRANCA SYSTEM- JAVA-green" target="_blank"></a>
+<a href="https://webservice-project-nuk6.onrender.com/users/" target="_blank"><img src="https://img.shields.io/badge/WEBSERVICES PEDIDOS-JAVA-green" target="_blank"></a>
 
 
 
