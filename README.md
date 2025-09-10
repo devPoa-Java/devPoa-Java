@@ -2,9 +2,18 @@
 
 ### Fala, Devs !!!
 
-🎯 Profissional com ampla experiência no desenvolvimento, gestão e implementação de soluções de software voltadas aos setores de varejo e educação.
+🎯Profissional de tecnologia com mais de 18 anos de experiência, atuando nos segmentos de varejo, educacional e consultoria de TI.  
+Especialista em análise de negócios, requisitos tributários e compliance fiscal, com forte atuação na interface entre tecnologia e necessidades de negócio.  
 
-Ao longo da minha trajetória, atuei em diferentes frentes, desde o planejamento estratégico até a entrega de produtos e serviços tecnológicos que geram valor real para os negócios. Tenho profundo conhecimento das necessidades operacionais e de gestão tanto do varejo físico e digital quanto de instituições educacionais, o que me permite conectar tecnologia com resultados concretos.
+Atualmente em transição para a área de **Desenvolvimento Java**, com foco em:
+- Programação Orientada a Objetos  
+- Java e Spring Boot  
+- Criação de APIs REST  
+- Bancos de Dados (SQL)  
+- Versionamento com Git/GitHub  
+
+Busco oportunidades como **Desenvolvedor Java**, onde possa aplicar minha base técnica em programação, aliada à experiência em análise de sistemas, para contribuir em projetos de software com visão completa: da regra de negócio até a entrega técnica.
+
 
 ### Principais Skill's
  
